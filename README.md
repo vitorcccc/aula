@@ -33,13 +33,6 @@ Este é um **Sistema de Marcação de Consultas Médicas** desenvolvido em TypeS
 
 ---
 
-## LINK DO REPOSITÓRIO
-
-**Repositório principal:** [https://github.com/isadorameneghetti/sistema-consultas](https://github.com/isadorameneghetti/sistema-consultas)
-
-**Branch do projeto:** `main`
-
----
 
 ## CONCEITOS DE TYPESCRIPT UTILIZADOS
 
@@ -182,14 +175,3 @@ sistema-consultas/
 | ✅ Só entram no faturamento consultas realizadas | Filtro no `calcularFaturamento` |
 | ✅ Médicos podem estar ativos/inativos | Propriedade `ativo` na interface Medico |
 
-## DISCIPLINA
-
-**Mobile Development e IoT**
-
-Professor: Hete Caetano dos Santos
-
-FACULDADE FIAP - 2026
-
-## LICENÇA
-
-Este projeto foi desenvolvido para fins educacionais. Todos os direitos reservados aos autores.
